@@ -1,3 +1,3 @@
 # Comutation using GPU
-How to use GPU in order to obtain the fastest computation? 
+How can I use GPU in order to obtain a fast computation? 
 Let's go :)
